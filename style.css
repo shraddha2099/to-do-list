@@ -60,3 +60,21 @@ ul{
 
 
 }
+@media(max-width:428px){
+    .box{
+        height: 50vh;
+        width: 50vh;
+    }
+
+    input{
+        height: 40px;
+        width: 200px;
+        padding: 10px;
+        border: none;
+    }
+    li{
+        width: 200px;
+
+    }
+
+}
